@@ -2,8 +2,21 @@
 * @Author: Marte
 * @Date:   2018-03-18 21:03:28
 * @Last Modified by:   Marte
-* @Last Modified time: 2018-03-18 21:04:27
+* @Last Modified time: 2018-03-18 21:29:54
 */
+html{
+    height:100%;
+}
 body{
-    background:url('../img/bac.jpg')
+    height:100%;
+    background:url('../img/bac.jpg') no-repeat;
+    background-size:cover;
+}
+a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 38vh;
 }
